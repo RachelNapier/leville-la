@@ -236,3 +236,22 @@
   &__rating-count {
   }
 }
+
+/* ================================
+            BUTTON INLINE
+   ================================ */
+.btn-inline {
+  border: none;
+  color: var(--color-primary);
+  font-size: inline;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 2px;
+  display: inline-block;
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover {
+    color: var(--color-grey-dark-1);
+  }
+}
