@@ -440,3 +440,18 @@
     font-family: sans-serif;
   }
 }
+
+/* ================================
+            CTA
+   ================================ */
+.cta {
+  padding: 3.5rem 0;
+  text-align: center;
+
+  &__book-now {
+    font-size: 1.6rem;
+    font-weight: 300;
+    margin-bottom: 2.5;
+    text-transform: uppercase;
+  }
+}
