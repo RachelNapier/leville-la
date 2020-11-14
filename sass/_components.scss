@@ -525,6 +525,10 @@
     font-weight: 300;
     margin-bottom: 2.5rem;
     text-transform: uppercase;
+
+    @media only screen and (max-width: $bp-small) {
+      font-size: 1.5rem;
+    }
   }
 }
 
@@ -547,6 +551,10 @@
   overflow: hidden;
   cursor: pointer;
 
+  @media only screen and (max-width: $bp-small) {
+    font-size: 1.2rem;
+  }
+
   & > * {
     display: inline-block;
     width: 100%;
@@ -555,6 +563,10 @@
   }
   &__visible {
     padding: 2rem 7.5rem;
+
+    @media only screen and (max-width: $bp-small) {
+      padding: 1.5rem 5.5rem;
+    }
   }
 
   &__invisible {
@@ -562,6 +574,10 @@
     padding: 2rem 0;
     left: 0;
     top: -100%;
+
+    @media only screen and (max-width: $bp-small) {
+      padding: 1.5rem 0;
+    }
   }
 
   &:hover {
