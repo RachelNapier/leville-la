@@ -1,13 +1,13 @@
 <!-- PROJECT SHIELDS -->
 
 ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red)
-![GitHub last commit](https://img.shields.io/github/last-commit/RachelNapier/writers_block_landing_page?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/RachelNapier/leville-la?style=flat-square)
 
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
-  <a href="https://rachelnapier.github.io/stars-unlimited/">
+  <a href="https://rachelnapier.github.io/leville-la/">
     <img src="img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
