@@ -51,23 +51,9 @@ A fully responsive, 'hotel booking app', overview home page. Utilizing many flex
 
 - [Sass](https://sass-lang.com/)
 
-<strong>Sass</strong> is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects.
-
 ## <strong>Utilized with:</strong>
 
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-
-<strong>CSS Flexible Box Layout</strong> , or commonly known as <strong>Flexbox</strong>, is a CSS3 web layout model. The flex layout allows responsive elements within a container to be automatically arranged depending upon screen size.
-
-<div align="center">
-
-![Flex container](img/flex-1.png)
-
-![Flex items](img/flex-2.png)
-
-</div>
-
-- For more on using <strong>flexbox</strong>, checkout this → [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 <!-- GETTING STARTED -->
 
